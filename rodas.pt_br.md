@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-lang: fr
-permalink: /
-page_id: home
-hero_image: /img/clube_hero.jpg
+permalink: /rodas
+lang: pt-BR
+page_id: rodas
+hide_hero: true
 ---
+
+As rodas

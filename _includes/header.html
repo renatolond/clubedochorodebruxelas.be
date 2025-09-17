@@ -26,23 +26,23 @@
         <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
             <div class="navbar-start">
                 <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Home</a>
-                {% if site.data[site.active_lang].navigation %}
-                    {% for item in site.data[site.active_lang].navigation %}
+                {% if site.data.navigation %}
+                    {% for item in site.data.navigation %}
                         {% if item.dropdown %}
                             <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
                                 <a
                                     href="{{ item.link | relative_url }}"
-                                    class="navbar-link {% if page.url contains item.link %}is-active{% endif %}"
+                                    class="navbar-link{% if page.url contains item.link %} is-active{% endif %}"
                                 >
-                                    {{- item.name -}}
+                                    {% t item.key %}
                                 </a>
                                 <div class="navbar-dropdown">
                                     {% for subitem in item.dropdown %}
                                         <a
                                             href="{{ subitem.link | relative_url }}"
-                                            class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}"
+                                            class="navbar-item{% if subitem.link == page.url %} is-active{% endif %}"
                                         >
-                                            {{- subitem.name -}}
+                                        {% t subitem.key %}
                                         </a>
                                     {% endfor %}
                                 </div>
@@ -50,9 +50,9 @@
                         {% else %}
                             <a
                                 href="{{ item.link | relative_url }}"
-                                class="navbar-item {% if item.link == page.url %}is-active{% endif %}"
+                                class="navbar-item{% if item.link == page.url %} is-active{% endif %}"
                             >
-                                {{- item.name -}}
+                            {% t item.key %}
                             </a>
                         {% endif %}
                     {% endfor %}
@@ -62,14 +62,14 @@
                         href="{{ item.link | relative_url }}"
                         class="navbar-link {% if page.url contains item.link %}is-active{% endif %}"
                     >
-                        {% t "language" %}
+                        <i class="fa fa-language" aria-hidden="true"></i>{% t "language" %}
                     </a>
                     <div class="navbar-dropdown">
                 {% for l in site.languages %}
-                    {% capture lang_href %}{{site.baseurl}}/{% if l != site.default_lang %}{{ l }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
+                    {% capture lang_href %}{{site.baseurl}}{% if l != site.default_lang %}/{{ l }}{% endif %}{% if page.url != '/' %}{{page.url}}{% endif %}{% endcapture %}
                       <a
                           {% static_href %}href="{{lang_href}}"{% endstatic_href %}
-                          class="navbar-item {% if l == site.active_lang %}is-active{% endif %}"
+                          class="navbar-item{% if l == site.active_lang %} is-active{% endif %}"
                       >
                         {{ site.data.language_names[l] }}
                       </a>
