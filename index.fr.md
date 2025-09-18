@@ -8,3 +8,4 @@ permalink: /
 page_id: home
 hero_image: /img/clube_hero.jpg
 ---
+{%- include next_events.html -%}
