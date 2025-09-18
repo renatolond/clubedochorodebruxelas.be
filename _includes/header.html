@@ -65,10 +65,10 @@
                         <i class="fa fa-language" aria-hidden="true"></i>{% t "language" %}
                     </a>
                     <div class="navbar-dropdown">
-                {% for l in site.languages %}
-                    {% capture lang_href %}{{site.baseurl}}{% if l != site.default_lang %}/{{ l }}{% endif %}{% if page.url != '/' %}{{page.url}}{% endif %}{% endcapture %}
+                      {% for l in site.languages %}
+                      {% capture lang_href %}{{site.baseurl}}{% if l != site.default_lang %}/{{ l }}{% endif %}{% if page.permalink_lang[l] %}{{page.permalink_lang[l]}}{% elsif page.permalink_lang[site.default_lang] != "/" %}{{page.permalink_lang[site.default_lang]}}{% endif %}{% endcapture %}
                       <a
-                          {% static_href %}href="{{lang_href}}"{% endstatic_href %}
+                          {% static_href -%}href="{{lang_href}}"{%- endstatic_href %}
                           class="navbar-item{% if l == site.active_lang %} is-active{% endif %}"
                       >
                         {{ site.data.language_names[l] }}
