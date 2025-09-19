@@ -31,7 +31,7 @@
                         {% if item.dropdown %}
                             <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
                                 <a
-                                    href="{{ item.link | relative_url }}"
+                                    href="{% link_for_current_language item.link %}"
                                     class="navbar-link{% if page.url contains item.link %} is-active{% endif %}"
                                 >
                                     {% t item.key %}
@@ -39,7 +39,7 @@
                                 <div class="navbar-dropdown">
                                     {% for subitem in item.dropdown %}
                                         <a
-                                            href="{{ subitem.link | relative_url }}"
+                                            href="{% link_for_current_language subitem.link %}"
                                             class="navbar-item{% if subitem.link == page.url %} is-active{% endif %}"
                                         >
                                         {% t subitem.key %}
@@ -49,7 +49,7 @@
                             </div>
                         {% else %}
                             <a
-                                href="{{ item.link | relative_url }}"
+                                href="{% link_for_current_language item.link %}"
                                 class="navbar-item{% if item.link == page.url %} is-active{% endif %}"
                             >
                             {% t item.key %}
