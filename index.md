@@ -8,4 +8,10 @@ permalink: /
 page_id: home
 hero_image: /img/clube_hero.jpg
 ---
-{%- include next_events.html -%}
+<div class="columns">
+  <div class="column is-8">
+  </div>
+  <div class="column is-4">
+    {%- include next_events.html -%}
+  </div>
+</div>
