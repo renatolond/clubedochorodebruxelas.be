@@ -3,9 +3,11 @@
 $navbar-item-img-max-height: 128px;
 
 // Revert navmenu height to standard bulma size
-#navMenu {
-  align-self: center;
-  max-height: 1.75rem;
+@media screen and (min-width: 1024px) {
+  #navMenu {
+    align-self: center;
+    max-height: 1.75rem;
+  }
 }
 
 // Import Main CSS file from theme
