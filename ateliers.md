@@ -5,12 +5,25 @@ lang: fr
 page_id: ateliers
 hide_hero: true
 ---
-Soyez les bienvenu.e.s pour venir découvrir et jouer la première musique instrumentale urbaine brésilienne !
+Les ateliers sont destinés à tous les musiciens, débutants ou confirmés, professionnels comme amateurs. Chacun trouve un intérêt dans la pratique du Choro.\\
+Organisés en différents niveaux, les ateliers permettent d’adapter la transmission aux profils des présents en se reposant sur les acquis de chacun.
 
-Sylvain Boisvert (flûtes) vous propose de vous aider à acquérir les bases rythmiques, harmoniques et mélodiques de ce genre musical et de développer ce langage afin de partager le plaisir de jouer ensemble en roda !
+L'initiation commence par la découverte des principes de base du Choro :
 
-## Pour qui ?
-Les musicien.ne.s de tous niveaux et instruments sont les bienvenu.e.s !
+ - Les patterns rythmiques basiques utilisés dans le Choro sont décomposés par tous les participants à l’aide d’instruments de percussion ou d’exercices de percussion corporelle
+ - La structure des morceaux est étudiée (forme du rondo), ainsi que les changements de tonalités récurrents entre les parties, des levadas pour commencer chaque thème... 
+ - Le travail sur les nuances contribue à mettre en relief la dynamique du groupe en mettant en exergue comment chaque musicien par son choix d’interprétation est amené à raconter sa propre histoire
+ - L'accompagnement est également étudié par le travail des figures typiques, ainsi que les conduites de l’harmonie.
+ - La pratique se partage entre l’étude de partitions et l’écoute d’enregistrements, ce qui permet aux participants de s’initier sans nécessairement en maîtriser la lecture.
+ - Pas besoin d’être virtuose, quel que soit l’instrument et sa maîtrise, chacun participe à son niveau à la construction de ce voyage musical.
+
+Pour les plus confirmés, l’objectif des ateliers est d’amener un public déjà initié à développer les techniques et le langage du Choro.
+
+  - L’improvisation est bien spécifique dans le Choro. Elle se fait sous forme de variations autour du thème. Elle peut aussi se compléter des propositions de contre-chants faites par les autres musiciens. Elles s’expriment sous la forme d’un jeu de questions-réponses, de nuances.
+  - Les participants commencent par étudier avec précision la mélodie et l’harmonie du thème afin d’improviser des variations en adéquation avec l’identité du morceau.
+  - Pour cela, il leur est proposé une palette de procédés musicaux tels que décalages rythmiques, répétitions, citations, voix-parallèles, opposées, changements de cellule rythmique...
+  - Les différents instruments accompagnateurs apprennent à enrichir l’harmonie en adaptant les renversements d’accords, en venant ajouter des accords de passage ou de substitution.
+La pratique instrumentale est la base dans le déroulement des ateliers. Les principes théoriques abordés, les enregistrements de référence écoutés viennent élargir la palette de jeu, ou viennent répondre à des problématiques soulevées par les participants.
 
 ## Quand ?
 Les samedis sauf vacances scolaires\\
