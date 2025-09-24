@@ -2,13 +2,42 @@
 ---
 $navbar-item-img-max-height: 128px;
 
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+$family-sans-serif: 'Montserrat', sans-serif;
+$primary: #157c95 !default;
+$tab-link-color: #00D1B2;
+$navbar-tab-active-color: $tab-link-color;
+$navbar-tab-active-border-bottom-color: $tab-link-color;
+$navbar-tab-hover-border-bottom-color: $tab-link-color;
+$navbar-burger-color: #fff;
+
+$modal-content-width: 800px;
+
+@import "../node_modules/bulma/sass";
+@import "../node_modules/bulma/sass/utilities/mixins";
+$hero-darken: $dark !default;
+
+@import "layout";
+@import "syntax";
+@import "showcase";
+@import "block-list";
+@import "promo-page";
+@import "category";
+
+.gh-sponsor {
+  color: #ea4aaa;
+}
+
 // Revert navmenu height to standard bulma size
 @media screen and (min-width: 1024px) {
   #navMenu {
     align-self: center;
     max-height: 1.75rem;
   }
+  .navbar-item.is-tab {
+    min-height: auto;
+  }
 }
 
-// Import Main CSS file from theme
-@import "main";

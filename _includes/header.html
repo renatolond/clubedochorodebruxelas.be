@@ -25,7 +25,7 @@
         </div>
         <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
             <div class="navbar-start">
-                <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Home</a>
+                <a href="{{ site.baseurl }}/" class="navbar-item is-tab {% if page.url == "/" %}is-active{% endif %}">Home</a>
                 {% if site.data.navigation %}
                     {% for item in site.data.navigation %}
                         {% if item.dropdown %}
@@ -50,7 +50,7 @@
                         {% else %}
                             <a
                                 href="{% link_for_current_language item.link %}"
-                                class="navbar-item{% if item.link == page.url %} is-active{% endif %}"
+                                class="navbar-item is-tab{% if item.link == page.url %} is-active{% endif %}"
                             >
                             {% t item.key %}
                             </a>
