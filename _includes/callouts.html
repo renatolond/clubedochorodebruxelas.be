@@ -1,0 +1,11 @@
+{% if page.different_language_warning %}
+<section class="section">
+  <div class="container">
+    <article class="message is-warning">
+      <div class="message-body">
+        {% t "untranslated_warning" %}
+      </div>
+    </article>
+  </div>
+</section>
+{% endif %}

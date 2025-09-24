@@ -9,12 +9,27 @@ page_id: rodas
 hide_hero: true
 ---
 
-Venez à la rencontre du Choro, première musique instrumentale brésilienne, à la croisée des cultures européennes, africaines et indigènes qui rassemble des richesses mélodiques, harmoniques et rythmiques inégalées !
+La Roda, c’est la rencontre entre un répertoire, des musiciens et l'inattendu du jeu collectif.
 
-Réunis dans une belle complicité autour d’une table, les musiciens interprètent un répertoire sans cesse réinventé et le public se laisse entraîner dans cette ambiance festive !
+La Roda, c’est l’improvisation, tant dans l’organisation que sur le déroulé :\\
+D’abord, une table au centre autour de laquelle les musiciens se répartissent.
 
-Convivialité, joie, partage… pour pratiquer, écouter, danser… Vous êtes tous les bienvenus !
+Puis, des musiciens, composés d’un combo de base assuré par une ou deux guitares, un cavaquinho pour l’accompagnement, un pandeiro pour les rythmes et un à deux instruments solistes. 
 
-On vous y attend nombreux !
+Enfin, cette formation indispensable accueillera tous les musiciens supplémentaires.
 
-Et pour les participants aux ateliers hebdomadaires de Choro, c’est une manière idéale de pratiquer ensemble les thèmes étudiés.
+La particularité réside dans le fait que l’on ne connaît jamais par avance la composition exacte de la Roda. Pas plus que l’on ne connaît le programme qui y sera joué.
+
+Ici, tout est histoire de collaboration.
+
+Les “chorões” présents lancent à tour de rôle un morceau au gré de leur inspiration.
+
+Les solistes se partagent la mélodie, chacun interprétant le thème à son tour.
+
+Complices, les autres musiciens, devenant accompagnateurs, s’adaptent à la lecture proposée. Jeux de regards, taquineries, surprises entre musiciens viennent compléter ce moment d’expression. 
+
+De par la forme, chaque Roda est unique. La spontanéité des propositions musicales, la diversité des influences, la disparité des profils participent à la richesse de cette formation. Mélange culturel, social, générationnel, tout le monde se retrouve pour un moment de plaisir partagé.
+
+La Roda est l’occasion idéale pour mettre en pratique le travail des ateliers. Chacun peut trouver sa place, quel que soit son niveau de pratique. Tous les musiciens sont accueillis et intégrés dans le collectif, l’apprentissage se fait au contact des autres.
+
+Soutenus dans leurs initiatives, progressivement même les plus timides gagnent en confiance.
