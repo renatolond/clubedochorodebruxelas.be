@@ -6,7 +6,8 @@ layout: page
 permalink: /rodas
 lang: fr
 page_id: rodas
-hide_hero: true
+title: Rodas
+hero_height: is-small
 ---
 
 La Roda, c’est la rencontre entre un répertoire, des musiciens et l'inattendu du jeu collectif.

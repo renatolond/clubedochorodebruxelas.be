@@ -3,7 +3,8 @@ layout: page
 permalink: /ateliers
 lang: fr
 page_id: ateliers
-hide_hero: true
+title: Ateliers
+hero_height: is-small
 ---
 Les ateliers sont destinés à tous les musiciens, débutants ou confirmés, professionnels comme amateurs. Chacun trouve un intérêt dans la pratique du Choro.\\
 Organisés en différents niveaux, les ateliers permettent d’adapter la transmission aux profils des présents en se reposant sur les acquis de chacun.

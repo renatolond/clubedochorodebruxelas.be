@@ -6,7 +6,8 @@ layout: page
 permalink: /oficinas
 lang: pt-BR
 page_id: ateliers
-hide_hero: true
+title: Oficinas
+hero_height: is-small
 ---
 
 As oficinas são destinadas a todos os músicas, debutantes ou experientes, profissionais ou amadores. Todos podem se interessar pela prática do Choro.\\
