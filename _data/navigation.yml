@@ -2,3 +2,11 @@
   link: /ateliers
 - key: rodas
   link: /rodas
+- key: masterclasses
+  link: /masterclasses
+- key: concerts
+  link: /concerts
+- key: about_us
+  link: /a-propos
+- key: contact
+  link: /contact
