@@ -10,7 +10,7 @@ title: Oficinas
 hero_height: is-small
 ---
 
-As oficinas são destinadas a todos os músicas, debutantes ou experientes, profissionais ou amadores. Todos podem se interessar pela prática do Choro.\\
+As oficinas são destinadas a todos os músicos, iniciantes ou experientes, profissionais ou amadores. Todos podem se interessar pela prática do Choro.\\
 Organizadas em níveis diferentes, as oficinas se adaptam aos perfis presentes e seus talentos.
 
 O nível iniciante se dedica à descoberta dos princípios de base do Choro:
