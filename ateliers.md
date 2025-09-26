@@ -34,7 +34,7 @@ Niveau 2 (répertoire, langage) 11h30-13h00.
 ## Où ?
 Au Pianofabriek rue du Fort 35 à 1060 Saint Gilles, salle Brazzaville (1er étage).
 
-{::nomarkdown}{%- include workshop_map.html -%}{:/nomarkdown}
+{::nomarkdown}{%- include workshop_map.html -%}{:/}
 
 ## Ça coûte combien ?
 Avec la volonté de rester accessible au plus grand nombre, nous proposons les ateliers au tarif de 12€ pour un atelier et 22€ pour les 2 ateliers. Tarif réduit étudiant.e, demandeu.r.se d'emploi, - de 16 ans, pensionné.e.s : 9€/atelier, 16€/les 2 ateliers.\\
