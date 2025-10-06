@@ -3,7 +3,7 @@ layout: home
 lang: fr
 permalink: /
 page_id: home
-hero_image: /img/clube_hero.jpg
+hero_image: img/clube_hero.jpg
 ---
 
 **Originaire du Brésil**, le *Choro* est né de la **rencontre inattendue entre deux univers bien différents** : la musique de danse de salon européenne du XIXème (Polka, valse, Scottisch…) et les rythmiques africaines (Batuque, lundu…).

@@ -34,6 +34,7 @@ theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-polyglot
+  - jekyll-asset-post-processor
 
 languages: ["fr", "nl", "en", "pt-BR"]
 default_lang: "fr"
