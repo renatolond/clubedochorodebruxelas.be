@@ -24,6 +24,7 @@ Pour les plus confirmés, l’objectif des ateliers est d’amener un public dé
   - Les participants commencent par étudier avec précision la mélodie et l’harmonie du thème afin d’improviser des variations en adéquation avec l’identité du morceau.
   - Pour cela, il leur est proposé une palette de procédés musicaux tels que décalages rythmiques, répétitions, citations, voix-parallèles, opposées, changements de cellule rythmique...
   - Les différents instruments accompagnateurs apprennent à enrichir l’harmonie en adaptant les renversements d’accords, en venant ajouter des accords de passage ou de substitution.
+
 La pratique instrumentale est la base dans le déroulement des ateliers. Les principes théoriques abordés, les enregistrements de référence écoutés viennent élargir la palette de jeu, ou viennent répondre à des problématiques soulevées par les participants.
 
 ## Quand ?
