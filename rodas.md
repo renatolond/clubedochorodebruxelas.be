@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 permalink: /rodas
 lang: fr
@@ -9,6 +6,8 @@ page_id: rodas
 title: Rodas
 hero_height: is-small
 ---
+
+{% include roda_image.md %}
 
 La Roda, c’est la rencontre entre un répertoire, des musiciens et l'inattendu du jeu collectif.
 
