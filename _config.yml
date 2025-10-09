@@ -38,7 +38,7 @@ plugins:
 
 languages: ["fr", "nl", "en", "pt-BR"]
 default_lang: "fr"
-url: "https://choro-beta.lond.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://clubedochorodebruxelas.be" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
