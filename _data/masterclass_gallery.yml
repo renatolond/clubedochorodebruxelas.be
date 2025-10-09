@@ -1,0 +1,29 @@
+- images:
+    - link: img/masterclasses/2025-03-22-raissa_anastasia.jpg
+      alt: Raissa Anastasia, 22/03/2025
+      description: Raissa Anastasia, 22/03/2025
+      ratio: is-4by3
+    - link: img/masterclasses/2024-10-16-marcos_tannuri.jpg
+      alt: Marcos Tannuri, 16/10/2024
+      description: Marcos Tannuri, 16/10/2024
+      ratio: is-4by3
+    - link: img/masterclasses/2024-08-31_cesar_roversi.jpg
+      alt: Cesar Roversi, 31/08/2024
+      description: Cesar Roversi, 31/08/2024
+      ratio: is-4by3
+    - link: img/masterclasses/2024-01-20_marco_and_barbara.jpg
+      alt: Marco Ruviaro & Barbara Piperno, 20/01/2024
+      description: Marco Ruviaro & Barbara Piperno, 20/01/2024
+      ratio: is-3by4
+    - link: img/masterclasses/2023-06-24_vitor_garbelotto.jpg
+      alt: Vitor Garbelotto, 24/06/2023
+      description: Vitor Garbelotto, 24/06/2023
+      ratio: is-4by3
+    - link: img/masterclasses/2022-10-29_jacque_falceti.png
+      alt: Jacque Falceti, 29/10/2022
+      description: Jacque Falceti, 29/10/2022
+      ratio: is-16by9
+    - link: img/masterclasses/2022-04-23_elizabeth_fadel.jpg
+      alt: Elizabeth Fadel, 23/04/2022
+      description: Elizabeth Fadel, 23/04/2022
+      ratio: is-4by3

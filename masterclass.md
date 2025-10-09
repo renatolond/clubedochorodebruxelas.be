@@ -12,3 +12,5 @@ Elle se complète pour le plus grand plaisir de chacun d’un concert qui sera l
 Ce moment est encore plus appréciable quand il se poursuit par une Roda ouverte à tous.
 
 De nombreux gran·d·es musicien·nes on déjà dirigé des masterclasses : Rogerio Botter Maio, Roee Ben Sira et Amoy Ribas, João Camarero, Michaël Chaves, Fernando Mattoso, Nilton Moreira, Nacho Delgado, Gileno Henrique, Jacque Falcetti, Marco Ruviaro et Barbara Piperno, Vitor Garbelotto, Pierre Gillet, Estela Manfrinato, Cesar Roversi… Plusieurs masterclasses sont déjà programmées cette année !
+
+{::nomarkdown}{%- include masterclass_gallery.html -%}{:/}
