@@ -19,4 +19,4 @@ La *Roda*, c’est la rencontre entre un répertoire, des musiciens et l'inatten
 
 Le Clube propose régulièrement des **Masterclass**. Elles sont animées par des **musiciens spécialistes du Choro** qui viennent présenter leur histoire, leur vision et des clés pour la pratique. [Cliquez ici pour en savoir plus sur les Masterclass](/masterclass).
 
-Elle se complète pour le plus grand plaisir de chacun d’un **concert** qui sera l’occasion pour le musicien invité de présenter son répertoire et ses compositions. Il est accompagné par les professeurs du Clube.
+Pour le plus grand plaisir de chacun des concerts sont organisés, entre autres avec les musiciens qui donnent les masterclasses, dans des lieux variés.
