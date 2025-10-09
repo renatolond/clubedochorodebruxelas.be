@@ -26,7 +26,7 @@ Os Chorões e Choronas presentes escolhem qual será a próxima música a partir
 
 Os solistas compartilham a melodia, cada um interpretando o tema na sua vez.
 
-Cúmplices, os outros músicos, fazem o acompanhmento e se adaptam a leitura proposta. Um jogo de olhares, brincadeiras e surpresas entre os músicos completam esse momento de expressão.
+Cúmplices, os outros músicos, fazem o acompanhamento e se adaptam à leitura proposta. Um jogo de olhares, brincadeiras e surpresas entre os músicos completa esse momento de expressão.
 
 Por causa da forma, cada roda é única. A espontaneidade das proposições músicais, a diversidade das influências e dos participantes contribuem para a riqueza desse formato. Uma mistura cultural, social e generacional em que todo mundo se encontra para um momento de prazer compartilhado.
 
