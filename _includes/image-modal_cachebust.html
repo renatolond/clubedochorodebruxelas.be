@@ -1,5 +1,5 @@
 {%- capture image_link -%}{% process_asset {{include.link}} %}{% endcapture %}
-{%- capture large_image_link -%}{% process_asset {{include.link}} %}{% endcapture %}
+{%- capture large_image_link -%}{% if include.large_link %}{% process_asset {{include.large_link}} %}{% endif %}{% endcapture %}
 <div x-data="{ open: false }" markdown="0">
     <a x-on:click="open = true" title="View large image">
         <figure class="image {{ include.ratio | default: is-16by9 }}">
