@@ -11,7 +11,9 @@ layout: default
     {{ content }}
     </div>
     <div class="column is-4">
+      {%- include calendar_includes.html -%}
       {%- include next_events.html -%}
+      {%- include next_workshops.html -%}
     </div>
   </div>
 </div>
