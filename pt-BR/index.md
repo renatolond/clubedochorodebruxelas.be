@@ -4,6 +4,7 @@ lang: pt-BR
 permalink: /
 page_id: home
 hero_image: img/clube_hero.jpg
+hero_nocenter: true
 ---
 **De origem brasileira** o Choro nasceu do encontro entre dois universos bem diferentes: a música de dança de salão européia do século XIX (Polca, Valsa, Scottisch...) e ritmos africanos (Batuque, Lundu...).
 

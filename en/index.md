@@ -4,6 +4,7 @@ lang: en
 permalink: /
 page_id: home
 hero_image: img/clube_hero.jpg
+hero_nocenter: true
 ---
 
 **Original from Brazil**, the *Choro* is born of the **unexpected encounter between two very different worlds**: The music of european balroom dance from the 19th century (Polca, Valsa, Scottisch...) and the african rhythms (Batuque, Lundu...)
