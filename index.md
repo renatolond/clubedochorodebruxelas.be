@@ -16,6 +16,6 @@ Les **ateliers hebdomadaires** sont **destinés à tous les musiciens**, débuta
 
 La *Roda*, c’est la rencontre entre un répertoire, des musiciens et l'inattendu du jeu collectif. La Roda est l’occasion idéale pour mettre en pratique le travail des ateliers. Chacun peut trouver sa place, quel que soit son niveau de pratique. Tous les musiciens sont accueillis et intégrés dans le collectif, l’apprentissage se fait au contact des autres. [Cliquez ici pour en savoir plus sur les Rodas](/rodas).
 
-Le Clube propose regulierment des **Masterclass**. Elles sont animée par des **musiciens spécialistes du Choro** qui vient présenter leur histoire, leur vision et des clés pour la pratique. [Cliquez ici pour en savoir plus sur les Masterclass](/masterclass).
+Le Clube propose régulièrement des **Masterclass**. Elles sont animées par des **musiciens spécialistes du Choro** qui viennent présenter leur histoire, leur vision et des clés pour la pratique. [Cliquez ici pour en savoir plus sur les Masterclass](/masterclass).
 
 Elle se complète pour le plus grand plaisir de chacun d’un **concert** qui sera l’occasion pour le musicien invité de présenter son répertoire et ses compositions. Il est accompagné par les professeurs du Clube.
