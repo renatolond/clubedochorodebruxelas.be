@@ -13,6 +13,8 @@ gem "jekyll", "~> 4.4.1"
 # Bulma Theme
 gem "bulma-clean-theme"
 
+gem "icalendar" # Used to generate the ICS used by the workshop calendar
+
 group :development, :test do
   gem "rubocop", require: false # A static code analyzer and formatter
   gem "rubocop-performance", require: false # A rubocop extension with performance suggestions

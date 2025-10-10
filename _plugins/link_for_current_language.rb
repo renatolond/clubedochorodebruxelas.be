@@ -22,13 +22,21 @@ class LinkForCurrentLanguage < Liquid::Tag
     key = Liquid::Template.parse(key).render(context) # Parses and renders some Liquid syntax on arguments (allows expansions)
 
     site = context.registers[:site]
-    multi_language_pages = site.pages.filter { |page| !page.data["page_id"].nil? }
-    multi_language_pages.each do |page|
-      next unless page["redirect_from"]
-      return page["permalink"] if page["redirect_from"].include? key
-    end
+    self.class.link(site, key)
+  end
 
-    key
+  class << self
+    def link(site, key)
+      multi_language_pages = site.pages.filter { |page| !page.data["page_id"].nil? }
+
+      multi_language_pages.each do |page|
+        next unless page["redirect_from"]
+
+        return page["permalink"] if page["redirect_from"].include? key
+      end
+
+      key
+    end
   end
 end
 

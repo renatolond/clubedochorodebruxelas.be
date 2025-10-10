@@ -30,4 +30,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 /_staging/
+/_ics_staging/
 vendor

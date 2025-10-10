@@ -1,6 +1,4 @@
 <script>
-  const ics = 'https://mobilizon.be/@clube_do_choro_bruxelas/feed/ics';
-
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -19,7 +17,7 @@
         right: 'prev,next'
       },
       events: {
-        url: ics,
+        url: "events.ics",
         format: 'ics'
       }
     });

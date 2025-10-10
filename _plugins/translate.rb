@@ -29,22 +29,29 @@ class LocalizeTag < Liquid::Tag
 
     site = context.registers[:site] # Jekyll site object
 
-    lang = context.registers[:site].config["active_lang"]
-
-    splitted_key = key.split(".")
-
-    translation = site.data.dig(lang, "translations", *splitted_key) if key.is_a?(String)
-
-    if translation.nil? || translation.empty?
-      translation = site.data.dig(site.config["default_lang"], "translations", *splitted_key)
-
-      if site.config["verbose"]
-        puts "Missing i18n key: #{lang}:#{key}"
-        puts format("Using translation '%<translation>s' from default language: %<default_language>s", translation: translation, default_language: site.config["default_lang"])
-      end
-    end
+    translation = self.class.translate(site, key)
 
     translation
+  end
+
+  class << self
+    def translate(site, key)
+      lang = site.config["active_lang"]
+
+      splitted_key = key.split(".")
+      translation = site.data.dig(lang, "translations", *splitted_key) if key.is_a?(String)
+
+      if translation.nil? || translation.empty?
+        translation = site.data.dig(site.config["default_lang"], "translations", *splitted_key)
+
+        if site.config["verbose"]
+          puts "Missing i18n key: #{lang}:#{key}"
+            puts format("Using translation '%<translation>s' from default language: %<default_language>s", translation: translation, default_language: site.config["default_lang"])
+        end
+      end
+
+      translation
+    end
   end
 end
 
