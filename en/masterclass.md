@@ -11,6 +11,6 @@ On this occasion, the Clube offers its members a masterclass led by a musician s
 To everyone's delight, the masterclass is complemented by a concert, which gives the guest musician the opportunity to present their repertoire and compositions. They are accompanied by the Clube's teachers.\\
 This moment is even more enjoyable when it is followed by a Roda open to all.
 
-Many great musicians already led masterclasses: Rogerio Botter Maio, Roee Ben Sira and Amoy Ribas, João Camarero, Michaël Chaves, Fernando Mattoso, Nilton Moreira, Nacho Delgado, Gileno Henrique, Jacque Falcetti, Marco Ruviaro and Barbara Piperno, Vitor Garbelotto, Pierre Gillet, Estela Manfrinato, Cesar Roversi… Many masterclasses are already scheduled for this year!
+Many great musicians already led masterclasses: Rogerio Botter Maio, Roee Ben Sira and Amoy Ribas, João Camarero, Michaël Chaves, Fernando Mattoso, Nilton Moreira, Nacho Delgado, Gileno Henrique, Elisabeth Fadel, Jacque Falcetti, Marco Ruviaro and Barbara Piperno, Vitor Garbelotto, Pierre Gillet, Estela Manfrinato, Cesar Roversi… Many masterclasses are already scheduled for this year!
 
 {::nomarkdown}{%- include masterclass_gallery.html -%}{:/}
