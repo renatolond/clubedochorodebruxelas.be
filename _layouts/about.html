@@ -8,7 +8,7 @@ layout: default
 <div class="content">
     {{ content }}
 </div>
-{% assign musicians=site.data.[site.active_lang].musicians %}
+{% assign musicians=site.data[site.active_lang].musicians %}
 {% for musician in musicians %}
 <article class="media">
   <figure class="media-left"><p class="image is-128x128"><img src="{% process_asset {{musician.image}} %}" /></p></figure>
