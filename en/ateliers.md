@@ -6,7 +6,7 @@ page_id: ateliers
 title: Workshops
 hero_height: is-small
 ---
-The workshops are aimed at all musicians, beginners or experienced, professionals and amateurs. Everyone can find their place in the Choro practice.\\
+The workshops are aimed at all musicians, beginners or advanced, professionals or amateurs. Everyone can find their place in the Choro practice.\\
 By being organised in different levels, the workshops are adapted to the profiles and talents of the people present.
 
 For beginners, it starts by the discovery of the main bases of Choro:
