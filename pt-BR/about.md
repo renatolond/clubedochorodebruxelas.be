@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /sobre
 lang: pt-BR
 page_id: about_us
@@ -21,19 +21,3 @@ A ideia não é pretender a excelência dos Clubes de Choro brasileiros, mas, ao
 Para isso, as atividades do Clube são organizadas em torno de oficinas de aprendizagem e apresentações públicas.
 
 # Os músicos do Clube
-
-## Sylvain Boisvert
-Com formação inicial em música clássica, Sylvain tem uma trajetória muito eclética.\\
-Ele estudou na França no Conservatório de Tarbes e no Conservatório de Toulouse de 1987 a 1999. Ele rapidamente se interessou pelas técnicas avançadas da flauta (sons multifônicos, flauta e voz, sons percussivos...) e pela improvisação musical.\\
-Ele também toca flauta em dó, flauta alto, flauta baixo, flautim e pifano (flauta tradicional brasileira feita de bambu).\\
-Sempre apaixonado por novas experiências, diversificou sua prática participando de diferentes formações ao lado de músicos Gnawas (Marrocos), em um grupo de forró e em um grupo de Son Jarocho (música tradicional mexicana de Vera Cruz).\\
-Preocupado em tornar a prática musical acessível a todos, ele ensina música como professor particular, mas também em uma instituição especializada para crianças (IRSA).
-
-Foi o encontro com o universo do famoso Hermeto Pascoal (multi-instrumentista e compositor brasileiro) que despertou sua paixão pela música brasileira. Isso o levou espontaneamente a viajar várias vezes ao Brasil, onde teve a oportunidade de aprender com músicos renomados como Antonio Rocha, Eduardo Neves, Itiberê Zwarg...\\
-Em 2016, fundou o Clube de Choro de Bruxelas com o baixista brasileiro Everton Rodrigues, com o objetivo de compartilhar sua paixão.
-
-## Matteo Carola
-Formado com mestrado em guitarra jazz (2013), Matteo estudou no Conservatório Real de Bruxelas com Fabien Degryse e Victor Da Costa.
-Já fascinado pelo violão e pela voz mágica de João Gilberto, ele descobriu, graças a Victor Da Costa (brasileiro), os sambas de Cartola e Nelson Cavaquinho, cujos ritmos e sonoridades (em particular o violão de 7 cordas) o seduziram instantaneamente. Durante o verão de 2012, ele descobriu outro estilo de música brasileira, o Choro.\\
-Apaixonado por esse novo estilo, ele fez várias viagens de estudo ao Brasil (2013, 2016 e 2019), onde aprendeu a tocar cavaquinho (pequeno violão de 4 cordas típico do choro e da samba) e descobriu toda a amplitude e profundidade do mundo do violão brasileiro.\\
-Paralelamente às suas atividades como músico profissional (jazz, música brasileira, canção napolitana), ele também leciona, tanto em instituições públicas (academias) quanto em associações (Clube do Choro de Bruxelas) ou como professor particular.
