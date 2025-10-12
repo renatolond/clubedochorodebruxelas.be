@@ -39,7 +39,7 @@ plugins:
 languages: ["fr", "nl", "en", "pt-BR"]
 default_lang: "fr"
 url: "https://clubedochorodebruxelas.be" # the base hostname & protocol for your site, e.g. http://example.com
-
+exclude_from_localization: ["404.html", "sitemap.xml"]
 mobilizon_user_page: "https://mobilizon.be/@clube_do_choro_bruxelas"
 
 # Exclude from processing.
