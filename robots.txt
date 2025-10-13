@@ -1,0 +1,25 @@
+Sitemap: https://clubedochorodebruxelas.be/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-Agent: meta-externalagent
+Disallow: /
