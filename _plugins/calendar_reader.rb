@@ -10,17 +10,16 @@ module Jekyll
       events = Icalendar::Event.parse(calendar_file)
 
       ret = []
-      counter = 0
 
       events.each do |event|
+        next if event.dtstart <= DateTime.now
+
         ret << {
           "summary" => event.summary,
           "dtstart" => event.dtstart,
           "dtend" => event.dtend,
           "url" => event.url.to_s
         }
-
-        counter += 1
       end
 
       ret
