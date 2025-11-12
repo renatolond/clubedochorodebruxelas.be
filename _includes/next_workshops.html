@@ -27,3 +27,11 @@
 </script>
 <h1>{% t "next_workshops" %}</h1>
 <div id='workshop_calendar'></div>
+<noscript>
+  {% assign events = "_ics_staging" | append: ics | read_calendar %}
+  {% for event in events %}
+  <p>
+    <a href="{{event.url}}">{{ event.dtstart | date: '%Y-%m-%d %H:%M' }} - {{ event.dtend | date: '%Y-%m-%d %H:%M' }}: {{ event.summary }}</a>
+  </p>
+  {% endfor %}
+</noscript>

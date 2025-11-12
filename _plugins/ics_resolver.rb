@@ -89,7 +89,7 @@ module IcsResolver
       FileUtils.mkpath(staging_destination) unless File.directory?(staging_destination)
 
       uri = URI("#{site.config["mobilizon_user_page"]}/feed/ics")
-      Net::HTTP.start(uri.host, uri.port, use_ssl: true) do |http|
+      Net::HTTP.start(uri.host, uri.port, use_ssl: true, verify_mode: OpenSSL::SSL::VERIFY_NONE) do |http|
         request = Net::HTTP::Get.new uri
         response = http.request request # Net::HTTPResponse object
         if response.code == "200" && response.header["content-type"].start_with?("text/calendar")
