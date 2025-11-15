@@ -11,6 +11,6 @@ Nessa ocasião, o Clube oferece aos seus membros uma masterclass ministrada por 
 Para o deleite de todos, ela é complementada por um concerto que será a oportunidade para o músico convidado apresentar seu repertório e suas composições. Ele é acompanhado pelos professores do Clube.\\
 Este momento é ainda mais apreciável quando é seguido por uma roda aberta a todos.
 
-Inúmeros grandes musicistas já ministraram masterclasses: Rogerio Botter Maio, Roee Ben Sira e Amoy Ribas, João Camarero, Michaël Chaves, Fernando Mattoso, Nilton Moreira, Nacho Delgado, Gileno Henrique, Elisabeth Fadel, Jacque Falcheti, Marco Ruviaro e Barbara Piperno, Vitor Garbelotto, Pierre Gillet, Estela Manfrinato, Cesar Roversi… Várias masterclasses já estão programadas este ano!
+Inúmeros grandes musicistas já ministraram masterclasses: Rogerio Botter Maio, Roee Ben Sira e Amoy Ribas, João Camarero, Michaël Chaves, Fernando Mattoso, Nilton Moreira, Nacho Delgado, Gileno Henrique, Elisabeth Fadel, Jacque Falcheti, Marco Ruviaro e Barbara Piperno, Vitor Garbelotto, Pierre Gillet, Estela Manfrinato, Cesar Roversi, Marcos Tannuri, Raissa Anastasia, Javiera Hunfan et Kevin Augusto… Várias masterclasses já estão programadas este ano!
 
 {::nomarkdown}{%- include masterclass_gallery.html -%}{:/}
