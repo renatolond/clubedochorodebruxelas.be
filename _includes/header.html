@@ -53,6 +53,9 @@
                                 class="navbar-item is-tab{% if item.link == page.url %} is-active{% endif %}"
                             >
                             {% t item.key %}
+                              {% if item.highlight_key %}
+                                  <span class="tag">{% t item.highlight_key %}!</span>
+                              {% endif %}
                             </a>
                         {% endif %}
                     {% endfor %}
